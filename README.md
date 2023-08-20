@@ -23,15 +23,11 @@ We used COUGHVID and Coswara datasets. The following operations must be performe
 - metrics_visualization.py--> plotROCCurve, plotConfusionMatrix, and metrics
 
   
-![figure1](https://github.com/GaffariCelik/CovidCoughNet/assets/79109465/a616beb5-8b86-45cf-be7f-e61657c421f1)
-
-
 # Citation and More Information:
 
 Please check out our article for more detailed information.
 
-Celik. G (2023). CovidCoughNet: A new method based on convolutional neural networks and deep feature extraction using pitch-shifting data augmentation for covid-19 detection from cough, breath, and voice signals.
-Computers in Biology and Medicine. 163, 107153.
-https://doi.org/10.1016/j.compbiomed.2023.107153.
+Celik. G (2023). CovidCoughNet: A new method based on convolutional neural networks and deep feature extraction using pitch-shifting data augmentation for covid-19 detection from cough, breath, and voice signals. Computers in Biology and Medicine. 163, 107153.
+doi: https://doi.org/10.1016/j.compbiomed.2023.107153.
 
 
