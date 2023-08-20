@@ -28,6 +28,7 @@ We used COUGHVID and Coswara datasets. The following operations must be performe
 Please check out our article for more detailed information.
 
 Celik. G (2023). CovidCoughNet: A new method based on convolutional neural networks and deep feature extraction using pitch-shifting data augmentation for covid-19 detection from cough, breath, and voice signals. Computers in Biology and Medicine. 163, 107153.
+
 doi: https://doi.org/10.1016/j.compbiomed.2023.107153.
 
 
